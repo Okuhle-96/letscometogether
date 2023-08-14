@@ -1,0 +1,85 @@
+/* NAVIGATION MENU */
+.navigation {
+    /* background-color: white; */
+    font-weight: lighter;
+  
+    height: 120px;
+    /* margin: auto; */
+}
+
+/* LOGO */
+
+.logo img {
+    width:150px;
+    height: 150px;
+    padding: 40px;
+}
+
+/* MENU */
+.menu {
+    width: 70%;
+    display: block;
+    padding-right: 30px;
+    float: right;
+}
+
+/* CONTACTS */
+.getInTouch {
+    display: flex;
+    /* background-color: antiquewhite; */
+    float: right;
+    padding-top: 10px;
+}
+
+.getInTouch li {
+    padding-right: 15px;
+    list-style: none;
+    font-size: small;
+}
+
+.getInTouch li a {
+    text-decoration: none;
+    font-size: small;
+    color: yellow;
+}
+
+/* DONATE BUTTON */
+.donate {
+    background-color: transparent;
+    border: 1px solid yellow;
+    color: white;
+    font-weight: lighter;
+    font-size: small;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.donate:hover {
+    background-color: yellow;
+    color: black;
+}
+
+
+/* NAVIGATION */
+.nav {
+    display: flex;
+    float: right;
+    height: 50px;
+}
+
+.nav li {
+    padding-right: 20px;
+    list-style: none;
+    font-size: small;
+    color: white;
+}
+
+.nav li:hover {
+    border-bottom: 1px solid white;
+}
+
+.nav li a {
+    text-decoration: none;
+    font-size: small;
+    color: white;
+}

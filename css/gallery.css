@@ -1,0 +1,27 @@
+.flexGal {
+    display: flex;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.twoPicturess{
+    margin-top: 30px;
+    padding: 30px;
+}
+
+.twoPicturess img {
+    width: 240px;
+    border: 10px solid green;;
+    height: 230px;
+    margin: 10px;
+}
+
+.onePicture{
+   background-image: url(../images/Poverty.jpg);
+   height: 600px;
+   width: 250px;
+   margin-top: 30px;
+   background-position: center;
+   background-repeat: no-repeat;
+   border: 10px solid green;
+}

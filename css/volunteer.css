@@ -1,0 +1,60 @@
+#volunteer {
+    background-image: url('../images/volunteer.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height:300px;
+    background-size: cover;
+}
+
+.overlayer2 {
+    background-color: rgba(0, 0, 0, 0.559);
+    height: 300px;
+}
+
+.volunteer{
+    display: flex;
+}
+
+.head {
+    padding: 25px;
+    width: 20%;
+}
+
+.head h2{
+    color: white;
+}
+
+.form {
+    padding: 40px;
+    margin-top: 45px;
+    width: 60%
+}
+
+.form input {
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 15px;
+    margin: 10px;
+    width: 200px;
+    font-weight: lighter;
+    font-size: small;
+    color: white;
+}
+
+.submit {
+    padding: 15px;
+    margin: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-size: small;
+    color: black;
+    text-align: center;
+    font-weight: lighter;
+    background-color: yellow;
+}
+
+.form a {
+    text-decoration: none;
+    font-size: small;
+    border-radius: 5px;
+}

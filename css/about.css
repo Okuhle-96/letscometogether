@@ -1,0 +1,116 @@
+.about{
+    display: flex;
+    padding: 20px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+.left{
+    width: 50%;
+    display: flex;
+}
+
+.rights{
+    width: 50%;
+    padding: 20px;
+}
+
+/* .twoPictures {
+    margin-left: 50px;
+} */
+
+.entreprenuer img {
+    margin-top: 120px;
+    border: 10px solid darkgreen;
+    width: 350px;
+    height: 420px;
+}
+
+.women img {
+    width: 200px;
+    border: 10px solid red;
+    margin-left: -150px;
+    height: 200px;
+}
+
+.robotics img {
+    width: 200px;
+    height: 200px;
+    margin-left: -50px;
+    border: 10px solid yellow;
+}
+
+.employment img {
+    width: 200px;
+    height: 200px;
+    margin-left: -150px;
+    border: 10px solid blue;
+}
+
+/* WHAT TO DO? */
+
+.todo {
+    padding: 10px;
+}
+
+.todo p{
+    font-size: small;
+    font-weight: bold;
+    letter-spacing: 1.5;
+    color: blue;
+}
+
+.todo ul li {
+    list-style: none;
+    font-weight: lighter;
+    color: blue;
+    font-size: small;
+    border-left: 30px solid blue;
+    padding-left: 10px;
+}
+
+/* WHY ARE WE DOING IT? */
+.why {
+    padding: 10px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.why p{
+    font-size: small;
+    font-weight: bold;
+    letter-spacing: 1.5;
+    color: darkgreen;
+}
+
+.why ul li {
+    list-style: none;
+    font-weight: lighter;
+    color: darkgreen;
+    font-size: small;
+    border-left: 30px solid darkgreen;
+    padding-left: 10px;
+}
+
+/* HOW TO DO IT? */
+
+.how {
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.how p{
+    font-size: small;
+    font-weight: bold;
+    letter-spacing: 1.5;
+    color: red;
+}
+
+.how ul li {
+    list-style: none;
+    font-weight: lighter;
+    color: red;
+    font-size: small;
+    border-left: 30px solid red;
+    padding-left: 10px;
+}
